@@ -7,7 +7,7 @@ int main() {
     initgraph(&gd, &gm, "");
 
     // Gambar lingkaran di tengah layar
-    circle(320, 240, 50);
+    circle(340, 240, 50);
 
     // Tahan layar agar tidak langsung tertutup
     getch();
